@@ -1,12 +1,12 @@
 Summary:	AppleWM extension library
 Summary(pl):	Biblioteka rozszerzenia AppleWM
 Name:		xorg-lib-libAppleWM
-Version:	0.99.3
+Version:	1.0.0
 Release:	0.1
 License:	MIT
 Group:		X11/Libraries
-Source0:	http://xorg.freedesktop.org/releases/X11R7.0-RC3/lib/libAppleWM-%{version}.tar.bz2
-# Source0-md5:	d680d85253604b0b6031ec9a138c5f13
+Source0:	http://xorg.freedesktop.org/releases/X11R7.0-RC4/lib/libAppleWM-%{version}.tar.bz2
+# Source0-md5:	e93527e06365242af0ff891df8e4e03f
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf >= 2.57
 BuildRequires:	automake
