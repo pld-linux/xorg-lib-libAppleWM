@@ -5,8 +5,8 @@ Version:	1.0.0
 Release:	0.1
 License:	MIT
 Group:		X11/Libraries
-Source0:	http://xorg.freedesktop.org/releases/X11R7.0-RC4/lib/libAppleWM-%{version}.tar.bz2
-# Source0-md5:	e93527e06365242af0ff891df8e4e03f
+Source0:	http://xorg.freedesktop.org/releases/X11R7.0/src/lib/libAppleWM-%{version}.tar.bz2
+# Source0-md5:	48a403c45be2206ee900729ced3a0e62
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf >= 2.57
 BuildRequires:	automake
