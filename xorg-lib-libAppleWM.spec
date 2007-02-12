@@ -1,5 +1,5 @@
 Summary:	AppleWM extension library
-Summary(pl.UTF-8):   Biblioteka rozszerzenia AppleWM
+Summary(pl.UTF-8):	Biblioteka rozszerzenia AppleWM
 Name:		xorg-lib-libAppleWM
 Version:	1.0.0
 Release:	2
@@ -25,7 +25,7 @@ Biblioteka rozszerzenia AppleWM.
 
 %package devel
 Summary:	Header files for AppleWM library
-Summary(pl.UTF-8):   Pliki nagłówkowe biblioteki AppleWM
+Summary(pl.UTF-8):	Pliki nagłówkowe biblioteki AppleWM
 Group:		X11/Development/Libraries
 Requires:	%{name} = %{version}-%{release}
 Requires:	xorg-lib-libXext-devel
@@ -45,7 +45,7 @@ używających biblioteki libAppleWM.
 
 %package static
 Summary:	Static AppleWM library
-Summary(pl.UTF-8):   Biblioteka statyczna AppleWM
+Summary(pl.UTF-8):	Biblioteka statyczna AppleWM
 Group:		X11/Development/Libraries
 Requires:	%{name}-devel = %{version}-%{release}
 
